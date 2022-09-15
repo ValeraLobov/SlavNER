@@ -1,0 +1,3 @@
+[submodule "SlavicNER"]
+	path = SlavicNER
+	url = https://github.com/fortvivlan/SlavicNER.git
