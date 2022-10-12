@@ -1,0 +1,12 @@
+addict==2.4.0
+datasets==1.18.0
+numpy==1.19.2
+pandas==1.1.5
+PyYAML==6.0
+scikit_learn==1.1.1
+scipy==1.4.1
+setuptools==39.1.0
+torch==1.7.1
+tqdm==4.62.3
+transformers==4.15.0
+seqeval==1.2.2

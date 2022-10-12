@@ -1,0 +1,398 @@
+,ru,be,bg,pl,sl,cs,uk
+0,Камерун,Камерун,Камерун,Kamerun,Kamerun,Kamerun,Камерун
+1,Гренада,Грэнада,Гренада,Grenada,Grenada,Grenada,Гренада
+2,Сирия,Сірыя,Сирия,Syria,Sirija,Sýrie,Сирія
+3,Ниуэ,Ніуэ,Ниуе,Niue,Niue,Niue,Ніуе
+4,Сан-Паулу,Сан-Паўлу,Сао Пауло,São Paulo,São Paulo,São Paulo,Сан-Паулу
+5,Мальтийский орден,Мальтыйскі Ордэн,Суверенен Малтийски орден,Zakon Maltański,Suvereni malteški viteški red,Suverénní řád Maltézských rytířů,Мальтійський орден
+6,Лондон,Лондан,Лондон,Londyn,London,Londýn,Лондон
+7,Сеул,Сеул,Сеул,Seul,Seul,Soul,Сеул
+8,Бутан,Бутан,Бутан,Bhutan,Butan ,Bhútán,Бутан
+9,Монтсеррат,Мантсерат,Монсерат,Montserrat,Monserat,Montserrat ,Монтсеррат
+10,Пакистан,Пакістан,Пакистан,Pakistan,Pakistan,Pákistán,Пакистан
+11,Аделаида,Адэлаіда,Аделейд,Adelaide,Adelaide,Adelaide,Аделаїда
+12,Эритрея,Эрытрэя,Еритрея,Erytrea,Eritreja,Eritrea,Еритрея
+13,Никарагуа,Нікарагуа,Никарагуа,Nikaragua,Nikaragva,Nikaragua,Нікарагуа
+14,Малави,Малаві,Малави,Malawi,Malavi,Malawi,Малаві
+15,Нижний Новгород,Ніжні Ноўгарад,Нижни Новгород,Niżny Nowogród,Nižni Novgorod,Nižnij Novgorod,Нижній Новгород
+16,Днепр,Дніпро,Днипро,Dniepr ,Dnipro,Dnipro,Дніпро 
+17,Гернси,Гернсі,Гърнзи,Guernsey,Guernsey,Guernsey,Гернсі
+18,Киото,Кіёта,Киото,Kioto,Kjoto,Kjóto,Кіото
+19,Сан-Томе и Принсипи,Сан-Тамэ і Прынсіпі,Сао Томе и Принсипи,Wyspy Świętego Tomasza i Książęca,Sveti Tomaž in Princ,Svatý Tomáš a Princův ostrov,Сан-Томе і Принсіпі
+20,Нанкин,Нанкін,Нанкин,Nankin,Nandžing,Nanking,Нанкін
+21,Арекипа,Арэкіпа ,Арекипа,Arequipa,Arequipa,Arequipa,Арекіпа
+22,Торонто,Таронта,Торонто,Toronto,Toronto,Toronto,Торонто
+23,Красноярск,Краснаярск,Красноярск,Krasnojarsk,Krasnojarsk,Krasnojarsk,Красноярськ
+24,Новая Каледония,Новая Каледонія,Нова Каледония,Nowa Kaledonia,Nova Kaledonija,Nová Kaledonie,Нова Каледонія
+25,Танжер,Танжэр,Танжер,Tanger,Tanger,Tanger,Танжер
+26,Катар,Катар,Катар,Katar,Katar,Katar,Катар
+27,Мозамбик,Мазамбік,Мозамбик,Mozambik,Mozambik,Mosambik,Мозамбік
+28,Сенегал,Сенегал,Сенегал,Senegal,Senegal,Senegal,Сенегал
+29,Северная Ирландия,Паўночная Ірландыя,Северна Ирландия,Irlandia Północna,Severna Irska,Severní Irsko,Північна Ірландія
+30,Тайбэй,Тайбэй,Тайпе,Tajpej,Tajpej,Tchaj-pej,Тайбей
+31,Момбаса,Мамбаса,Момбаса,Mombasa,Mombasa,Mombasa,Момбаса
+32,Багдад,Багдад,Багдад,Bagdad,Bagdad,Bagdád,Багдад
+33,Вьетнам,В’етнам,Виетнам,Wietnam,Vietnam,Vietnam,В'єтнам
+34,Тегеран,Тэгеран,Техеран,Teheran,Teheran,Teherán,Тегеран
+35,Кашубия,Кашубія,Кашубия,Kaszuby,Kašubska,Kašubsko,Кашубія
+36,Кокосовые острова,Какосавыя астравы,Кокосови острови,Wyspy Kokosowe,Kokosovi ,Kokosové ostrovy,Кокосові острови
+37,Мосул,Масул,Мосул,Mosul,Mosul,Mosul,Мосул
+38,Йемен,Емен,Йемен,Jemen,Jemen,Jemen,Ємен
+39,Гамбург,Гамбург,Хамбург,Hamburg,Hamburg,Hamburk,Гамбург
+40,Словения,Славенія,Словения,Słowenia,Slovenija,Slovinsko,Словенія
+41,Кейптаун,Кейптаўн,Кейптаун,Kapsztad,Cape Town,Kapské Město,Кейптаун
+42,Воронеж,Варонеж,Воронеж,Woroneż,Voronež,Voroněž,Воронеж
+43,Манила,Маніла,Манила,Manila,Manila,Manila,Маніла
+44,Филадельфия,Філадэльфія,Филаделфия,Filadelfia,Filadelfija,Filadelfie,Філадельфія
+45,Доминиканская Республика,Дамініканская Рэспубліка,Доминиканска република,Dominikana,Dominikanska republika,Dominikánská republika,Домініканська Республіка
+46,Милан,Мілан,Милано,Mediolan,Milano,Milán,Мілан
+47,Колумбия,Калумбія,Колумбия,Kolumbia,Kolumbija,Kolumbie,Колумбія
+48,Куритиба,Курытыба,Куритиба,Kurytyba,Curitiba,Curitiba,Куритиба
+49,Леон-де-лос-Альдама,Леон-дэ-лос-Альдама,Леон ,León ,León,León ,Леон 
+50,Мали,Малі,Мали,Mali,Mali,Mali,Малі
+51,Ахмадабад,Ахмедабад,Ахмедабад,Ahmadabad,Ahmedabad,Ahmadábád,Ахмадабад
+52,Уоллис и Футуна,Уоліс і Футуна,Уолис и Футуна,Wallis i Futuna,Wallis in Futuna,Wallis a Futuna,Волліс і Футуна
+53,Уфа,Уфа,Уфа,Ufa,Ufa,Ufa,Уфа
+54,Каир,Каір,Кайро,Kair,Kairo,Káhira,Каїр
+55,Алеппо,Халеб,Халеб,Aleppo,Alep,Aleppo,Алеппо
+56,Екатеринбург,Екацярынбург,Екатеринбург,Jekaterynburg,Jekaterinburg,Jekatěrinburg,Єкатеринбург
+57,Кения,Кенія,Кения,Kenia,Kenija,Keňa,Кенія
+58,Босния и Герцеговина,Боснія і Герцагавіна,Босна и Херцеговина,Bośnia i Hercegowina,Bosna in Hercegovina,Bosna a Hercegovina,Боснія і Герцеговина
+59,Даллас,Далас,Далас,Dallas,Dallas,Dallas,Даллас
+60,Китай,Кітай,Китай,Chińska Republika Ludowa,Ljudska republika Kitajska,Čína,Китайська Народна Республіка
+61,Казахстан,Казахстан,Казахстан,Kazachstan,Kazahstan,Kazachstán,Казахстан
+62,Санкт-Петербург,Санкт-Пецярбург,Санкт Петербург,Petersburg,Sankt Peterburg,Petrohrad,Санкт-Петербург
+63,Малайзия,Малайзія,Малайзия,Malezja,Malezija,Malajsie,Малайзія
+64,Португалия,Партугалія,Португалия,Portugalia,Portugalska,Portugalsko,Португалія
+65,Маршалловы Острова,Маршалавы Астравы,Маршалови острови,Wyspy Marshalla,Marshallovi otoki,Marshallovy ostrovy,Маршаллові Острови
+66,Нидерланды,Нідэрланды,Нидерландия,Holandia ,Nizozemska,Nizozemsko,Нідерланди
+67,Палау,Палау,Палау,Palau,Palav,Palau,Палау
+68,Шри-Ланка,Шры-Ланка,Шри Ланка,Sri Lanka,Šrilanka,Srí Lanka,Шрі-Ланка
+69,Сальвадор,Сальвадор,Салвадор,Salwador,Salvador,Salvador,Сальвадор
+70,Бразилиа,Бразілія ,Бразилия ,Brasília,Brasilia,Brasília,Бразиліа
+71,Мельбурн,Мельбурн,Мелбърн,Melbourne,Melbourne,Melbourne,Мельбурн
+72,Финляндия,Фінляндыя,Финландия,Finlandia,Finska,Finsko,Фінляндія
+73,Республика Корея,Паўднёвая Карэя,Южна Корея,Korea Południowa,Južna Koreja,Jižní Korea,Південна Корея
+74,Гвинея-Бисау,Гвінея-Бісау,Гвинея-Бисау,Gwinea Bissau,Gvineja Bissau,Guinea-Bissau,Гвінея-Бісау
+75,Науру,Науру,Науру,Nauru,Nauru,Nauru,Науру
+76,Мехико,Мехіка,Мексико ,Meksyk ,Ciudad de México,Ciudad de México,Мехіко
+77,Газиантеп,Газіянтэп,Газиантеп,Gaziantep,Gaziantep,Gaziantep,Газіантеп
+78,Шотландия,Шатландыя,Шотландия,Szkocja,Škotska,Skotsko,Шотландія
+79,Венесуэла,Венесуэла,Венецуела,Wenezuela,Venezuela,Venezuela,Венесуела
+80,Нур-Султан,Нур-Султан,Нур Султан,Nur-Sułtan,Nursultan,Nur-Sultan,Нур-Султан
+81,Острова Святой Елены,Астравы Святой Алены,Света Елена,Wyspa Świętej Heleny,Sveta Helena,Svatá Helena,Острови Святої Єлени
+82,Марокко,Марока,Мароко,Maroko,Maroko,Maroko,Марокко
+83,Южная Георгия и Южные Сандвичевы Острова,Паўднёвая Георгія і Паўднёвыя Сандвічавы астравы,Южна Джорджия и Южни Сандвичеви острови,Georgia Południowa i Sandwich Południowy,Južna Georgija in Južni Sandwichevi otoki,Jižní Georgie a Jižní Sandwichovy ostrovy,Південна Джорджія і Південні Сандвічеві Острови
+84,Литва,Літва,Литва,Litwa,Litva,Litva,Литва
+85,Гвинея,Гвінея,Гвинея,Gwinea,Gvineja,Guinea,Гвінея
+86,Швейцария,Швейцарыя,Швейцария,Szwajcaria,Švica,Švýcarsko,Швейцарія
+87,Читтагонг,Чытагонг,Читагонг,Ćottogram,Chittagong,Čitágáon,Читтагонг
+88,Мьянма,М’янма,Мианмар,Mjanma,Mjanmar,Myanmar,М'янма
+89,Сен-Пьер и Микелон,Сен-П’ер і Мікелон,Сен Пиер и Микелон,Saint-Pierre i Miquelon,Saint Pierre in Miquelon,Saint Pierre a Miquelon,Сен-П'єр і Мікелон
+90,Румыния,Румынія,Румъния,Rumunia,Romunija,Rumunsko,Румунія
+91,Аруба,Аруба,Аруба,Aruba,Aruba,Aruba,Аруба
+92,Украина,Украіна,Украйна,Ukraina,Ukrajina,Ukrajina,Україна
+93,Сидней,Сідней,Сидни,Sydney,Sydney,Sydney,Сідней
+94,Ла-Пас,Ла-Пас ,Ла Пас,La Paz,La Paz,La Paz,Ла-Пас
+95,Кобе,Кобэ,Кобе,Kobe,Kobe,Kóbe,Кобе
+96,Суринам,Сурынам,Суринам,Surinam,Surinam,Surinam,Суринам
+97,Барбадос,Барбадас,Барбадос,Barbados,Barbados,Barbados,Барбадос
+98,Эфиопия,Эфіопія,Етиопия,Etiopia,Etiopija,Etiopie,Ефіопія
+99,Монако,Манака,Монако,Monako,Monako,Monako,Монако
+100,Ханой,Ханой,Ханой,Hanoi,Hanoj,Hanoj,Ханой
+101,Бельгия,Бельгія,Белгия,Belgia,Belgija,Belgie,Бельгія
+102,Лос-Анджелес,Лос-Анджэлес,Лос Анджелис,Los Angeles,Los Angeles,Los Angeles,Лос-Анджелес
+103,Виргинские Острова,Брытанскія Віргінскія астравы,Британски Вирджински острови,Brytyjskie Wyspy Dziewicze,Britanski Deviški otoki,Britské Panenské ostrovy,Британські Віргінські Острови
+104,Бурунди,Бурундзі,Бурунди,Burundi,Burundi,Burundi,Бурунді
+105,Ямайка,Ямайка,Ямайка,Jamajka,Jamajka,Jamajka,Ямайка
+106,Кабо-Верде,Каба-Вердэ,Кабо Верде,Republika Zielonego Przylądka,Zelenortski otoki,Kapverdy,Кабо-Верде
+107,Англия,Англія,Англия,Anglia,Anglija,Anglie,Англія
+108,Южный Судан,Паўднёвы Судан,Южен Судан,Sudan Południowy,Južni Sudan,Jižní Súdán,Південний Судан
+109,Дели,Дэлі,Делхи,Delhi,Delhi,Dillí,Делі
+110,Сендай,Сэндай,Сендай,Sendai,Sendai,Sendai,Сендай
+111,Бангладеш,Бангладэш,Бангладеш,Bangladesz,Bangladeš,Bangladéš,Бангладеш
+112,Мальта,Мальта,Малта,Malta,Malta,Malta,Мальта
+113,Бразилия,Бразілія,Бразилия,Brazylia,Brazilija,Brazílie,Бразилія
+114,Франция,Францыя,Франция,Francja,Francija,Francie,Франція
+115,Бенин,Бенін,Бенин,Benin,Benin,Benin,Бенін
+116,Теркс и Кайкос,Цёркс і Кайкас,Търкс и Кайкос,Turks i Caicos,Otoki Turks in Caicos,Turks a Caicos,Острови Теркс і Кайкос
+117,Иордания,Іарданія,Йордания,Jordania,Jordanija,Jordánsko,Йорданія
+118,Калгари,Калгары,Калгари,Calgary,Calgary,Calgary,Калгарі
+119,Барселона,Барселона,Барселона,Barcelona,Barcelona,Barcelona,Барселона
+120,Ангилья,Ангілья,Ангила,Anguilla,Angvila,Anguilla,Ангілья
+121,Острова Кука,Астравы Кука,Кук ,Wyspy Cooka,Cookovi otoki,Cookovy ostrovy,Острови Кука
+122,Сербия,Сербія,Сърбия,Serbia,Srbija,Srbsko,Сербія
+123,Бруней,Бруней,Бруней,Brunei,Brunej,Brunej,Бруней
+124,Бурса,Бурса ,Бурса,Bursa ,Bursa,Bursa,Бурса 
+125,Сан-Хосе,Сан-Хасэ ,Сан Хосе ,San Jose ,San Jose,San José ,Сан-Хосе 
+126,Бандунг,Бандунг,Бандунг,Bandung,Bandung,Bandung,Бандунґ
+127,Мюнхен,Мюнхен,Мюнхен,Monachium,München,Mnichov,Мюнхен
+128,Танзания,Танзанія,Танзания,Tanzania,Tanzanija,Tanzanie,Танзанія
+129,Германия,Германія,Германия,Niemcy,Nemčija,Německo,Німеччина
+130,Берлин,Берлін,Берлин,Berlin,Berlin,Berlín,Берлін
+131,Пуэрто-Рико,Пуэрта-Рыка,Пуерто Рико,Portoryko,Portoriko,Portoriko,Пуерто-Рико
+132,Бхопал,Бхапал,Бопал,Bhopal,Bhopāl,Bhópál,Бхопал
+133,Албания,Албанія,Албания,Albania,Albanija,Albánie,Албанія
+134,Уругвай,Уругвай,Уругвай,Urugwaj,Urugvaj,Uruguay,Уругвай
+135,Саппоро,Сапара,Сапоро,Sapporo,Sapporo,Sapporo,Саппоро
+136,Хиросима,Хірасіма,Хирошима,Hiroszima,Hirošima,Hirošima,Хіросіма
+137,Неаполь,Неапаль,Неапол,Neapol,Neapelj,Neapol,Неаполь
+138,Джидда,Джыда,Джида,Dżudda,Džeda,Džidda,Джидда
+139,Джарвис,Джарвіс,Джарвис ,Jarvis,Jarvisov otok,Jarvisův ostrov,Джарвіс 
+140,Соломоновы Острова,Саламонавы Астравы,Соломонови острови ,Wyspy Salomona,Salomonovi otoki,Šalomounovy ostrovy,Соломонові Острови
+141,Ирландия,Ірландыя,Ирландия,Irlandia,Irska,Irsko,Ірландія
+142,Чад,Чад,Чад,Czad,Čad,Čad,Чад
+143,Французская Полинезия,Французская Палінезія,Френска Полинезия,Polinezja Francuska,Francoska Polinezija,Francouzská Polynésie,Французька Полінезія
+144,Ботсвана,Батсвана,Ботсвана,Botswana,Bocvana,Botswana,Ботсвана
+145,Бирмингем,Бірмінгем,Бирмингам,Birmingham,Birmingham,Birmingham,Бірмінгем
+146,Тонга,Тонга,Тонга,Tonga,Tonga,Tonga,Тонга
+147,Непал,Непал,Непал,Nepal,Nepal,Nepál,Непал
+148,Александрия,Александрыя,Александрия,Aleksandria,Aleksandrija,Alexandrie,Александрія
+149,Болгария,Балгарыя,България,Bułgaria,Bolgarija,Bulharsko,Болгарія
+150,Буркина-Фасо,Буркіна-Фасо,Буркина Фасо,Burkina Faso,Burkina Faso,Burkina Faso,Буркіна-Фасо
+151,Судан,Судан,Судан,Sudan,Sudan,Súdán,Судан
+152,Дания,Данія,Дания,Dania,Danska,Dánsko,Данія
+153,Барранкилья,Баранкілья,Баранкиля,Barranquilla,Barranquilla,Barranquilla,Барранкілья
+154,Варанаси,Варанасі,Варанаси,Waranasi,Varanasi,Váránasí,Варанасі
+155,Британская антарктическая территория,Брытанская антарктычная тэрыторыя,Британска антарктическа територия,Brytyjskie Terytorium Antarktyczne,Britansko antarktično ozemlje,Britské antarktické území,Британська Антарктична Територія
+156,Кирибати,Кірыбаці,Кирибати,Kiribati,Kiribati,Kiribati,Кірибаті
+157,Польша,Польшча,Полша,Polska,Poljska,Polsko,Польща
+158,Норвегия,Нарвегія,Норвегия,Norwegia,Norveška,Norsko,Норвегія
+159,Армения,Арменія,Армения,Armenia,Armenija,Arménie,Вірменія
+160,Джакарта,Джакарта,Джакарта,Dżakarta,Džakarta,Jakarta,Джакарта
+161,Харьков,Харкаў,Харков,Charków,Harkov,Charkov,Харків
+162,Мумбаи,Мумбаі,Мумбай,Mumbaj,Mumbaj,Bombaj,Мумбаї
+163,Мидуэй,Мідуэй,Мидуей,Midway,Midwayski atol,Midway,Мідвей 
+164,Зимбабве,Зімбабвэ,Зимбабве,Zimbabwe,Zimbabve,Zimbabwe,Зімбабве
+165,Казань,Казань,Казан,Kazań,Kazan,Kazaň,Казань
+166,Чикаго,Чыкага,Чикаго,Chicago,Chicago,Chicago,Чикаго
+167,Азербайджан,Азербайджан,Азербайджан,Azerbejdżan,Azerbajdžan,Ázerbájdžán,Азербайджан
+168,Пекин,Пекін,Пекин,Pekin,Peking,Peking,Пекін
+169,Ухань,Ухань,Ухан,Wuhan,Vuhan,Wu-chan,Ухань
+170,Нигерия,Нігерыя,Нигерия,Nigeria,Nigerija,Nigérie,Нігерія
+171,Греция,Грэцыя,Гърция,Grecja,Grčija,Řecko,Греція
+172,Ливан,Ліван,Ливан,Liban,Libanon,Libanon,Ліван
+173,Каракас,Каракас,Каракас,Caracas,Caracas,Caracas,Каракас
+174,Швеция,Швецыя,Швеция,Szwecja,Švedska,Švédsko,Швеція
+175,Силенд,Сіленд,Сийланд,Sealand,Sealand,Sealand,Сіландія
+176,Гонконг,Ганконг,Хонконг,Hongkong,Hongkong,Hongkong,Гонконг
+177,Фолклендские острова,Фалклендскія астравы,Фолкландски острови,Falklandy,Falklandski otoki,Falklandy,Фолклендські Острови
+178,Сомали,Самалі,Сомалия,Somalia,Somalija,Somálsko,Сомалі
+179,Кот-д’Ивуар,Кот-д’Івуар,Кот д'Ивоар,Wybrzeże Kości Słoniowej,Slonokoščena obala,Pobřeží slonoviny,Кот-д'Івуар
+180,Уэльс,Уэльс,Уелс,Walia,Wales,Wales,Уельс
+181,Бостон,Бостан,Бостън,Boston,Boston,Boston,Бостон
+182,Уэйк,Уэйк,Уейк,Wake,Otok Wake,Wake ,Вейк 
+183,Эр-Рияд,Эр-Рыяд,Рияд,Rijad,Riad,Rijád,Ер-Ріяд
+184,Исландия,Ісландыя,Исландия,Islandia,Islandija,Island,Ісландія
+185,Москва,Масква,Москва,Moskwa,Moskva,Moskva,Москва
+186,Мадагаскар,Мадагаскар,Мадагаскар,Madagaskar,Madagaskar,Madagaskar,Мадагаскар
+187,Багамские Острова,Багамскія Астравы,Бахамски острови,Bahamy,Bahami,Bahamy,Багамські Острови
+188,Хьюстон,Х’юстан,Хюстън,Houston,Houston,Houston,Х'юстон
+189,Токио,Токіа,Токио,Tokio,Tokio,Tokio,Токіо
+190,Эль-Гиза,Гіза,Гиза,Giza,Giza,Gíza,Гіза
+191,Израиль,Ізраіль,Израел,Izrael,Izrael,Izrael,Ізраїль
+192,Саудовская Аравия,Саудаўская Аравія,Саудитска Арабия,Arabia Saudyjska,Saudova Arabija,Saúdská Arábie,Саудівська Аравія
+193,Исламабад,Ісламабад,Исламабад,Islamabad,Islamabad,Islámábád,Ісламабад
+194,Хошимин,Хашымін,Хошимин,Ho Chi Minh ,Hošiminh,Ho Či Minovo Město,Хошимін
+195,Осака,Осака,Осака,Osaka,Osaka,Ósaka,Осака
+196,Ванкувер,Ванкувер,Ванкувър,Vancouver,Vancouver,Vancouver,Ванкувер
+197,Ливия,Лівія,Либия,Libia,Libija,Libye,Лівія
+198,Найроби,Найробі,Найроби,Nairobi,Nairobi,Nairobi,Найробі
+199,Виргинские Острова,Амерыканскія Віргінскія астравы,Американски Вирджински острови,Wyspy Dziewicze Stanów Zjednoczonych,Deviški otoki Združenih držav,Americké Panenské ostrovy,Американські Віргінські Острови
+200,Ангола,Ангола,Ангола,Angola,Angola,Angola,Ангола
+201,Абуджа,Абуджа,Абуджа,Abudża,Abuja,Abuja,Абуджа
+202,Сиань,Сіянь,Сиан,Xi’an,Šjan,Si-an,Сіань
+203,Чили,Чылі,Чили,Chile,Čile,Chile,Чилі
+204,Антигуа и Барбуда,Антыгуа і Барбуда,Антигуа и Барбуда,Antigua i Barbuda,Antigva in Barbuda,Antigua a Barbuda,Антигуа і Барбуда
+205,Пуэбла-де-Сарагоса,Эроіка-Пуэбла-дэ-Сарагоса,Пуебла,Puebla ,Puebla de Zaragoza,Puebla ,Пуебла 
+206,Грузия,Грузія,Грузия,Gruzja,Gruzija,Gruzie,Грузія
+207,Белоруссия,Беларусь,Беларус,Białoruś,Belorusija,Bělorusko,Білорусь
+208,Сент-Винсент и Гренадины,Сент-Вінсент і Грэнадзіны,Сейнт Винсент и Гренадини,Saint Vincent i Grenadyny,Sveti Vincencij in Grenadine,Svatý Vincenc a Grenadiny,Сент-Вінсент і Гренадини
+209,Лима,Ліма,Лима,Lima,Lima,Lima,Ліма
+210,Соединённые Штаты Америки,Злучаныя Штаты Амерыкі,Съединени американски щати,Stany Zjednoczone,Združene države Amerike,Spojené státy americké,Сполучені Штати Америки
+211,Аргентина,Аргенціна,Аржентина,Argentyna,Argentina,Argentina,Аргентина
+212,Гибралтар,Гібралтар,Гибралтар,Gibraltar,Gibraltar,Gibraltar,Гібралтар
+213,Объединённые Арабские Эмираты,Аб’яднаныя Арабскія Эміраты,Обединени арабски емирства,Zjednoczone Emiraty Arabskie,Združeni arabski emirati,Spojené arabské emiráty,Об'єднані Арабські Емірати
+214,Алжир,Алжыр ,Алжир ,Algier,Alžir,Alžír,Алжир 
+215,Таиланд,Тайланд,Тайланд,Tajlandia,Tajska,Thajsko,Таїланд
+216,Шанхай,Шанхай,Шанхай,Szanghaj,Šanghaj,Šanghaj,Шанхай
+217,Папуа — Новая Гвинея,Папуа — Новая Гвінея,Папуа Нова Гвинея,Papua-Nowa Gwinea,Papuanska Nova Gvineja,Papua Nová Guinea,Папуа Нова Гвінея
+218,Корейская Народно-Демократическая Республика,Паўночная Карэя,Северна Корея,Korea Północna,Severna Koreja,Severní Korea,Північна Корея
+219,Замбия,Замбія,Замбия,Zambia,Zambija,Zambie,Замбія
+220,Адана,Адана,Адана,Adana,Adana,Adana,Адана
+221,Центральноафриканская Республика,Цэнтральна-Афрыканская Рэспубліка,Централноафриканска република,Republika Środkowoafrykańska,Srednjeafriška republika,Středoafrická republika,Центральноафриканська Республіка
+222,Экваториальная Гвинея,Экватарыяльная Гвінея,Екваториална Гвинея,Gwinea Równikowa,Ekvatorialna Gvineja,Rovníková Guinea,Екваторіальна Гвінея
+223,Кито,Кіта,Кито,Quito,Quito,Quito,Кіто
+224,Япония,Японія,Япония,Japonia,Japonska,Japonsko,Японія
+225,Республика Кипр,Кіпр,Република Кипър,Cypr,Ciper,Kypr,Кіпр
+226,Рабат,Рабат,Рабат,Rabat ,Rabat,Rabat,Рабат
+227,Словакия,Славакія,Словакия,Słowacja,Slovaška,Slovensko,Словаччина
+228,Туркмения,Туркменістан,Туркменистан,Turkmenistan,Turkmenistan,Turkmenistán,Туркменістан
+229,Кюрасао,Кюрасаа,Кюрасао,Curaçao,Curaçao,Curaçao,Кюрасао
+230,Лагос,Лагас,Лагос,Lagos,Lagos,Lagos,Лагос
+231,Эдмонтон,Эдмантан,Едмънтън,Edmonton,Edmonton,Edmonton,Едмонтон
+232,Венгрия,Венгрыя,Унгария,Węgry,Madžarska,Maďarsko,Угорщина
+233,Оттава,Атава,Отава,Ottawa,Ottawa,Ottawa,Оттава
+234,Сьерра-Леоне,Сьера-Леонэ,Сиера Леоне,Sierra Leone,Sierra Leone,Sierra Leone,Сьєрра-Леоне
+235,Карачи,Карачы,Карачи,Karaczi,Karači,Karáčí,Карачі
+236,Киев,Кіеў,Киев,Kijów,Kijev,Kyjev,Київ
+237,Мексика,Мексіка,Мексико,Meksyk,Mehika,Mexiko,Мексика
+238,Оман,Аман,Оман,Oman,Oman,Omán,Оман
+239,Ватикан,Ватыкан,Ватикан,Watykan,Vatikan,Vatikán,Ватикан
+240,Египет,Егіпет,Египет,Egipt,Egipt,Egypt,Єгипет
+241,Гамбия,Гамбія,Гамбия,Gambia,Gambija,Gambie,Гамбія
+242,Тунис,Туніс,Тунис,Tunezja,Tunizija,Tunisko,Туніс
+243,Гайана,Гаяна,Гвиана,Gujana,Gvajana,Guyana,Гаяна
+244,Медина,Медына,Медина,Medyna ,Medina,Medína,Медина
+245,Чехия,Чэхія,Чехия,Czechy,Češka,Česko,Чехія
+246,Республика Конго,Рэспубліка Конга,Република Конго,Kongo,Zahodni Kongo,Konžská republika,Республіка Конго
+247,Перу,Перу,Перу,Peru,Peru,Peru,Перу
+248,Мадрид,Мадрыд,Мадрид,Madryt,Madrid,Madrid,Мадрид
+249,Гуанчжоу,Гуанчжоу,Гуанджоу,Kanton ,Guangdžov,Kanton ,Ґуанчжоу
+250,Исфахан,Ісфахан,Исфахан,Isfahan,Isfahan,Isfahán,Ісфаган
+251,Индонезия,Інданезія,Индонезия,Indonezja,Indonezija,Indonésie,Індонезія
+252,Нью-Йорк,Нью-Ёрк,Ню Йорк,Nowy Jork,New York,New York,Нью-Йорк
+253,Кёльн,Кёльн,Кьолн,Kolonia ,Köln,Kolín nad Rýnem,Кельн
+254,Хорватия,Харватыя,Хърватия,Chorwacja,Hrvaška,Chorvatsko,Хорватія
+255,Финикс,Фінікс,Финикс,Phoenix,Phoenix,Phoenix,Фінікс
+256,Джибути,Джыбуці,Джибути,Dżibuti,Džibuti,Džibutsko,Джибуті
+257,Алма-Ата,Алматы,Алмати,Ałmaty,Almati,Almaty,Алмати
+258,Филиппины,Філіпіны,Филипини,Filipiny,Filipini,Filipíny,Філіппіни
+259,Киргизия,Кыргызстан,Киргизстан,Kirgistan,Kirgizistan,Kyrgyzstán,Киргизстан
+260,Куала-Лумпур,Куала-Лумпур,Куала Лумпур,Kuala Lumpur,Kuala Lumpur,Kuala Lumpur,Куала-Лумпур
+261,Ростов-на-Дону,Растоў-на-Доне,Ростов на Дон,Rostów nad Donem,Rostov na Donu,Rostov na Donu,Ростов-на-Дону
+262,Габон,Габон,Габон,Gabon,Gabon,Gabon,Габон
+263,Канада,Канада,Канада,Kanada,Kanada,Kanada,Канада
+264,Сан-Марино,Сан-Марына,Сан Марино,San Marino,San Marino,San Marino,Сан-Марино
+265,Испания,Іспанія,Испания,Hiszpania,Španija,Španělsko,Іспанія
+266,Таджикистан,Таджыкістан,Таджикистан,Tadżykistan,Tadžikistan,Tádžikistán,Таджикистан
+267,Рио-де-Жанейро,Рыа-дэ-Жанэйра,Рио де Жанейро,Rio de Janeiro,Rio de Janeiro,Rio de Janeiro,Ріо-де-Жанейро
+268,Богота,Багата,Богота,Bogota,Bogota,Bogotá,Богота
+269,Монголия,Манголія,Монголия,Mongolia,Mongolija,Mongolsko,Монголія
+270,Эсватини,Эсваціні,Есватини,Eswatini,Esvatini,Svazijsko,Есватіні
+271,Аккра,Акра,Акра,Akra,Akra,Akkra,Аккра
+272,Омск,Омск,Омск,Omsk,Omsk,Omsk,Омськ
+273,Мекка,Мекка,Мека,Mekka,Meka,Mekka,Мекка
+274,Тувалу,Тувалу,Тувалу,Tuvalu,Tuvalu,Tuvalu,Тувалу
+275,Тебриз,Тэбрыз,Тебриз,Tebriz,Tabriz,Tabríz,Тебриз
+276,Шираз,Шыраз,Шираз,Sziraz,Širaz,Šíráz,Шираз
+277,Молдавия,Малдова,Молдова,Mołdawia,Moldavija,Moldavsko,Молдова
+278,Тринидад и Тобаго,Трынідад і Табага,Тринидад и Тобаго,Trynidad i Tobago,Trinidad in Tobago,Trinidad a Tobago,Тринідад і Тобаго
+279,Чунцин,Чунцын,Чунцин,Chongqing,Čongčing,Čchung-čching,Чунцін
+280,Басра,Басра,Басра,Basra,Basra,Basra,Басра
+281,Эстония,Эстонія,Естония,Estonia,Estonija,Estonsko,Естонія
+282,Фиджи,Фіджы,Фиджи,Fidżi,Fidži,Fidži,Фіджі
+283,Бахрейн,Бахрэйн,Бахрейн,Bahrajn,Bahrajn,Bahrajn,Бахрейн
+284,Урумчи,Урумчы,Урумчи,Urumczi,Urumči,Urumči,Урумчі
+285,Австрия,Аўстрыя,Австрия,Austria,Avstrija,Rakousko,Австрія
+286,Дакка,Дака,Дака,Dhaka,Daka,Dháka,Дака
+287,Буэнос-Айрес,Буэнас-Айрэс,Буенос Айрес,Buenos Aires,Buenos Aires,Buenos Aires,Буенос-Айрес
+288,Вануату,Вануату,Вануату,Vanuatu,Vanuatu,Vanuatu,Вануату
+289,Джайпур,Джайпур,Джайпур,Jaipur,Džaipur,Džajpur,Джайпур
+290,Американское Самоа,Амерыканскае Самоа,Американска Самоа,Samoa Amerykańskie,Ameriška Samoa,Americká Samoa,Американське Самоа
+291,Гондурас,Гандурас,Хондурас,Honduras,Honduras,Honduras,Гондурас
+292,Гана,Гана,Гана,Ghana,Gana,Ghana,Гана
+293,Турция,Турцыя,Турция,Turcja,Turčija,Turecko,Туреччина
+294,Гвадалахара,Гвадалахара ,Гуадалахара,Guadalajara,Guadalajara,Guadalajara ,Гвадалахара 
+295,Латвия,Латвія,Латвия,Łotwa,Latvija,Lotyšsko,Латвія
+296,Одесса,Адэса,Одеса,Odessa,Odesa,Oděsa,Одеса
+297,Аба,Аба ,Аба ,Aba ,Aba,Aba ,Аба 
+298,Сейшельские Острова,Сейшэльскія Астравы,Сейшели,Seszele,Sejšeli,Seychely,Сейшельські Острови
+299,Парагвай,Парагвай,Парагвай,Paragwaj,Paragvaj,Paraguay,Парагвай
+300,Маврикий,Маўрыкій,Мавриций,Mauritius,Mavricij,Mauricius,Маврикій
+301,Индия,Індыя,Индия,Indie,Indija,Indie,Індія
+302,Бермудские Острова,Бермудскія астравы,Бермудски острови,Bermudy,Bermudi,Bermudy,Бермудські Острови
+303,Демократическая Республика Конго,Дэмакратычная Рэспубліка Конга,Демократична република Конго,Demokratyczna Republika Konga,Vzhodni Kongo,Konžská demokratická republika,Демократична Республіка Конго
+304,Сан-Франциско,Сан-Францыска,Сан Франциско,San Francisco,San Francisco,San Francisco,Сан-Франциско
+305,Италия,Італія,Италия,Włochy,Italija,Itálie,Італія
+306,Медельин,Медэльін,Меделин,Medellín,Medellín,Medellín,Медельїн
+307,Риф Кингмен,Кінгмэн,Кингман ,Kingman ,Kingmanov greben,Kingmanův útes,Кінгмен 
+308,Новая Зеландия,Новая Зеландыя,Нова Зеландия,Nowa Zelandia,Nova Zelandija,Nový Zéland,Нова Зеландія
+309,Куба,Куба,Куба,Kuba,Kuba,Kuba,Куба
+310,Волгоград,Валгаград,Волгоград,Wołgograd,Volgograd,Volgograd,Волгоград
+311,Сент-Китс и Невис,Сент-Кітс і Невіс,Сейнт Китс и Невис,Saint Kitts i Nevis,Sveti Krištof in Nevis,Svatý Kryštof a Nevis,Сент-Кіттс і Невіс
+312,Пусан,Пусан,Пусан,Pusan,Pusan,Pusan,Пусан
+313,Бенилюкс,Бенілюкс,Бенелюкс,Beneluks,Beneluks,Benelux,Бенілюкс
+314,Сайтама,Сайтама ,Сайтама,Saitama,Saitama,Saitama,Сайтама
+315,Циндао,Цындаа,Циндао,Qingdao,Čingdao,Čching-tao,Циндао
+316,Мавритания,Маўрытанія,Мавритания,Mauretania,Mavretanija,Mauritánie,Мавританія
+317,Трухильо,Трухілья ,Трухильо ,Trujillo ,Trujillo,Trujillo ,Трухільйо 
+318,Абу-Даби,Абу-Дабі,Абу Даби,Abu Zabi,Abu Dabi,Abú Zabí,Абу-Дабі
+319,Руанда,Руанда,Руанда,Rwanda,Ruanda,Rwanda,Руанда
+320,Бангалор,Бангалор,Бенгалуру,Bengaluru,Bangalore,Bengalúr,Бенгалуру
+321,Южно-Африканская Республика,Паўднёва-Афрыканская Рэспубліка,Република Южна Африка,Południowa Afryka,Republika Južna Afrika,Jihoafrická republika,Південно-Африканська Республіка
+322,Доминика,Дамініка,Доминика,Dominika,Dominika,Dominika,Домініка
+323,Иокогама,Якагама,Йокохама,Jokohama,Jokohama,Jokohama,Йокогама
+324,Киншаса,Кіншаса,Киншаса,Kinszasa,Kinšasa,Kinshasa,Кіншаса
+325,Уганда,Уганда,Уганда,Uganda,Uganda,Uganda,Уганда
+326,Джонстон,Джонстан ,Атол Джонстън,Johnston ,Johnstonov atol,Johnstonův atol,Джонстон 
+327,Пермь,Перм,Перм,Perm ,Perm,Perm ,Перм
+328,Лаос,Лаос,Лаос,Laos,Laos,Laos,Лаос
+329,Сурабая,Сурабая,Сурабая,Surabaja,Surabaja,Surabaja,Сурабая
+330,Камбоджа,Камбоджа,Камбоджа,Kambodża,Kambodža,Kambodža,Камбоджа
+331,Коморы,Каморскія Астравы,Коморски острови,Komory,Komori,Komory,Коморські Острови
+332,Лесото,Лесота,Лесото,Lesotho,Lesoto,Lesotho,Лесото
+333,Хауленд,Хаўленд ,Хауланд ,Howland,Howlandov otok,Howlandův ostrov,Гауленд
+334,Гуам,Гуам,Гуам,Guam,Gvam,Guam,Гуам
+335,Мальдивы,Мальдывы,Малдиви,Malediwy,Maldivi,Maledivy,Мальдіви
+336,Самара,Самара,Самара,Samara,Samara,Samara,Самара
+337,Курдистан,Курдыстан,Кюрдистан,Kurdystan,Kurdistan,Kurdistán,Курдистан
+338,Нагоя,Нагоя,Нагоя,Nagoja,Nagoja,Nagoja,Нагоя
+339,Амритсар,Амрытсар,Амритсар,Amritsar,Amritsar,Amritsar,Амрітсар
+340,Брисбен,Брысбен,Бризбън,Brisbane,Brisbane,Brisbane,Брисбен
+341,Новосибирск,Новасібірск,Новосибирск,Nowosybirsk,Novosibirsk,Novosibirsk,Новосибірськ
+342,Дурбан,Дурбан,Дърбан,Durban,Durban,Durban,Дурбан
+343,Андорра,Андора,Андора,Andora,Andora,Andorra,Андорра
+344,Фес,Фес,Фес,Fez,Fes,Fes,Фес
+345,Самоа,Самоа,Самоа,Samoa,Samoa,Samoa,Самоа
+346,Узбекистан,Узбекістан,Узбекистан,Uzbekistan,Uzbekistan,Uzbekistán,Узбекистан
+347,Белиз,Беліз,Белиз,Belize,Belize,Belize,Беліз
+348,Либерия,Ліберыя,Либерия,Liberia,Liberija,Libérie,Ліберія
+349,Дамаск,Дамаск,Дамаск,Damaszek,Damask,Damašek,Дамаск
+350,Чэнду,Чэнду,Чънду,Chengdu,Čengdu,Čcheng-tu,Ченду
+351,Касабланка,Касабланка,Казабланка,Casablanca,Casablanca,Casablanca,Касабланка
+352,Стамбул,Стамбул,Истанбул,Stambuł,Carigrad,Istanbul,Стамбул
+353,Ирак,Ірак,Ирак,Irak,Irak,Irák,Ірак
+354,Сент-Люсия,Сент-Люсія,Сейнт Лусия,Saint Lucia,Sveta Lucija ,Svatá Lucie,Сент-Люсія
+355,Синт-Мартен,Сінт-Мартэн,Синт Мартен,Sint Maarten ,Sveti Martin ,Svatý Martin ,Сінт-Мартен
+356,Боливия,Балівія,Боливия,Boliwia,Bolivija,Bolívie,Болівія
+357,Монреаль,Манрэаль,Монреал,Montreal,Montréal,Montréal,Монреаль
+358,Британская Территория в Индийском Океане,Брытанская тэрыторыя ў Індыйскім акіяне,Британска индоокеанска територия,Brytyjskie Terytorium Oceanu Indyjskiego,Britansko ozemlje v Indijskem oceanu,Britské indickooceánské území,Британська Територія в Індійському Океані
+359,Афганистан,Афганістан,Афганистан,Afganistan,Afganistan,Afghánistán,Афганістан
+360,Коста-Рика,Коста-Рыка,Коста Рика,Kostaryka,Kostarika,Kostarika,Коста-Рика
+361,Анкара,Анкара,Анкара,Ankara,Ankara,Ankara,Анкара
+362,Республика Гаити,Гаіці,Хаити,Haiti,Haiti,Haiti,Гаїті
+363,Люксембург,Люксембург,Люксембург,Luksemburg,Luksemburg,Lucembursko,Люксембург
+364,Алжир,Алжыр,Алжир,Algieria,Alžirija,Alžírsko,Алжир
+365,Панама,Панама,Панама,Panama,Panama,Panama,Панама
+366,Джерси,Джэрсі,Джърси,Jersey,Jersey,Jersey,Джерсі
+367,Бейкер,Бэйкер,Бейкър ,Baker ,Bakerjev otok,Bakerův ostrov,Бейкер 
+368,Рим,Рым,Рим,Rzym,Rim,Řím,Рим
+369,Черногория,Чарнагорыя,Черна гора,Czarnogóra,Črna gora,Černá Hora,Чорногорія
+370,Восточный Тимор,Усходні Тымор,Източен Тимор,Timor Wschodni,Vzhodni Timor,Východní Timor,Східний Тимор
+371,Сингапур,Сінгапур,Сингапур,Singapur,Singapur,Singapur,Сінгапур
+372,Перт,Перт ,Пърт ,Perth,Perth,Perth,Перт
+373,Намибия,Намібія,Намибия,Namibia,Namibija,Namibie,Намібія
+374,Россия,Расія,Русия,Rosja,Rusija,Rusko,Росія
+375,Гватемала,Гватэмала,Гватемала,Gwatemala,Gvatemala,Guatemala,Гватемала
+376,Ченнаи,Чэнаі,Ченай,Ćennaj,Chennai,Čennaí,Ченнаї
+377,Эквадор,Эквадор,Еквадор,Ekwador,Ekvador,Ekvádor,Еквадор
+378,Калькутта,Калькута,Колката,Kolkata,Kalkuta,Kalkata,Колката
+379,Сан-Диего,Сан-Дыега,Сан Диего,San Diego,San Diego,San Diego,Сан-Дієго
+380,Йоханнесбург,Яганэсбург,Йоханесбург,Johannesburg,Johannesburg,Johannesburg,Йоганнесбург
+381,Австралия,Аўстралія,Австралия,Australia,Avstralija,Austrálie,Австралія
+382,Токелау,Такелау,Токелау,Tokelau,Tokelav,Tokelau,Токелау
+383,Федеративные Штаты Микронезии,Федэратыўныя Штаты Мікранезіі,Микронезия ,Mikronezja,Federativne države Mikronezije,Federativní státy Mikronésie,Федеративні Штати Мікронезії
+384,Того,Тога,Того,Togo,Togo,Togo,Того
+385,Иран,Іран,Иран,Iran,Iran,Írán,Іран
+386,Остров Рождества,Востраў Каляд,Рождество ,Wyspa Bożego Narodzenia,Božični otok,Vánoční ostrov,Острів Різдва
+387,Острова Питкэрн,Астравы Піткэрн,Питкерн,Pitcairn,Pitcairnovi otoki,Pitcairnovy ostrovy,Піткерн
+388,Северная Македония,Паўночная Македонія,Северна Македония,Macedonia Północna,Severna Makedonija,Severní Makedonie,Північна Македонія
+389,Челябинск,Чалябінск,Челябинск,Czelabińsk,Čeljabinsk,Čeljabinsk,Челябінськ
+390,Великобритания,Вялікабрытанія,Обединено кралство Великобритания и Северна Ирландия,Wielka Brytania,Združeno kraljestvo Velike Britanije in Severne Irske,Spojené království,Велика Британія
+391,Нигер,Нігер,Нигер,Niger,Niger,Niger,Нігер
+392,Измир,Ізмір,Измир,Izmir,İzmir,Smyrna,Ізмір
+393,Кувейт,Кувейт,Кувейт,Kuwejt,Kuvajt,Kuvajt,Кувейт
+394,Лихтенштейн,Ліхтэнштэйн,Лихтенщайн,Liechtenstein,Lihtenštajn,Lichtenštejnsko,Ліхтенштейн
+395,Дубай,Дубай ,Дубай,Dubaj,Dubaj,Dubaj,Дубай
+396,Сан-Антонио,Сан-Антоніа,Сан Антонио,San Antonio ,San Antonio,San Antonio,Сан-Антоніо

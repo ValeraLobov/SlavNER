@@ -1,0 +1,32 @@
+ner_task:
+  unique_tags: ['O', 'B-LOC', 'I-LOC', 'B-ORG', 'I-ORG', 'B-PER', 'I-PER', 'B-EVT', 'I-EVT', 'B-PRO', 'I-PRO']
+  num_labels: 11
+  model_checkpoint_name: "xlm-roberta-base-multilingual-wechsel-cl"
+  loc_training_samples: 4000
+  org_training_samples: 4000
+  per_male_training_samples: 2000
+  per_female_training_samples: 2000
+  language_order: ['ru'] # available langs: [ 'pl', 'sl', 'cs', 'bg', 'ru', 'uk'], also 'be' (without SlavicNER)
+
+backbone_model:
+  base: "rubert" # or "xlm"
+  learning_rate: 0.00002
+  batch_size: 2
+  weight_decay: 0.01
+  num_epochs: 1
+  wechsel_c1_model_path: './models/wechsel_cl_sentence_length'
+  wechsel_c2_model_path: './models/wechsel_cl_entities_prob'
+  wechsel_c3_model_path: './models/wechsel_cl_perplexity'
+
+curriculum_learning_model:
+  START_TAG: "<START>"
+  STOP_TAG: "<STOP>"
+  EMBEDDING_DIM: 100
+  HIDDEN_DIM: 200
+  NUM_EPOCHS: 6
+  LR: 0.01
+  WEIGHT_DECAY: 0.0001
+
+wechsel_model:
+  num_neighbors: 5
+
